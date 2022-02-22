@@ -29,6 +29,7 @@ WAAVI is a web development studio based in Madrid, Spain. You can learn more abo
   - [Managing Translations](#managing-translations)
 - [Model attributes translation](#model-attributes-translation)
 - [Uri localization](#uri-localization)
+- [Docker](#Docker)
 
 ## Laravel compatibility
 
@@ -416,3 +417,10 @@ In your views, for routes where the Middleware is active, you may present the us
     </ul>
 </li>
 ```
+
+## Docker
+
+Pull docker image  : `docker-compose pull`
+Install packages   : `docker-compose run translation composer install`
+Update packages    : `docker-compose run translation composer update`
+Run test           : `docker-compose run translation composer test`
