@@ -1,8 +1,7 @@
 {
-    "name": "waavi/translation",
-    "description": "A Translation package for Laravel 5 with database and cache support",
+    "name": "fork-299132/laravel-translation",
+    "description": "A Translation package for Laravel 9 with database and cache support. Fork of the package Waavi Translation.",
     "keywords": [
-        "waavi",
         "laravel-translator",
         "laravel",
         "translator",
@@ -10,13 +9,6 @@
         "localization"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Waavi",
-            "email": "info@waavi.com",
-            "homepage": "http://waavi.com"
-        }
-    ],
     "require": {
         "laravel/framework": "~8.0",
         "doctrine/dbal": "^2.5.2"

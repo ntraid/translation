@@ -423,6 +423,9 @@ In your views, for routes where the Middleware is active, you may present the us
 ## Docker
 
 Pull docker image  : `docker-compose pull`
+
 Install packages   : `docker-compose run translation composer install`
+
 Update packages    : `docker-compose run translation composer update`
+
 Run test           : `docker-compose run translation composer test`
