@@ -43,6 +43,8 @@ WAAVI is a web development studio based in Madrid, Spain. You can learn more abo
  5.6.x    | 2.3.x and higher
  6.x\|7.x     | 2.4.x and higher
  8.x.x    | 2.5.x and higher
+ 9.x.x    | 2.6.x and higher
+ 10.x.x    | 2.7.x and higher
 
 ## Features overview
 
