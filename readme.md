@@ -2,8 +2,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/waavi/translation.svg?style=flat-square)](https://packagist.org/packages/waavi/translation)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/Waavi/translation/master.svg?style=flat-square)](https://travis-ci.org/Waavi/translation)
-[![Total Downloads](https://img.shields.io/packagist/dt/waavi/translation.svg?style=flat-square)](https://packagist.org/packages/waavi/translation)
 
 ## Introduction
 
@@ -45,6 +43,7 @@ WAAVI is a web development studio based in Madrid, Spain. You can learn more abo
  8.x.x    | 2.5.x and higher
  9.x.x    | 2.6.x and higher
  10.x.x    | 2.7.x and higher
+ 11.x.x    | 2.8.x and higher
 
 ## Features overview
 
