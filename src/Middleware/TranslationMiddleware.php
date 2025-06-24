@@ -10,6 +10,12 @@ use Waavi\Translation\UriLocalizer;
 
 class TranslationMiddleware
 {
+    protected UriLocalizer|Waavi\Translation\UriLocalizer $uriLocalizer;
+    protected LanguageRepository|Waavi\Translation\Repositories\LanguageRepository $languageRepository;
+    protected Illuminate\Config\Repository|Config $config;
+    protected Illuminate\View\Factory|ViewFactory $viewFactory;
+    protected Illuminate\Foundation\Application|Application $app;
+
     /**
      *  Constructor
      *

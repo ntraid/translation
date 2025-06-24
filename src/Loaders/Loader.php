@@ -53,7 +53,7 @@ abstract class Loader implements LoaderContract
      * @param  string  $namespace
      * @return array
      */
-    abstract public function loadSource($locale, $group, $namespace = null);
+    abstract public function loadSource($locale, $group, $namespace = '*');
 
     /**
      * Add a new namespace to the loader.

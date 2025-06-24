@@ -34,6 +34,9 @@ class TranslationRepository extends Repository
      */
     protected $errors;
 
+    protected Application $app;
+    protected $defaultLocale;
+
     /**
      *  Constructor
      *  @param  \Waavi\Translation\Models\Translation   $model  Bade model for queries.

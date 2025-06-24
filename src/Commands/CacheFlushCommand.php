@@ -18,6 +18,8 @@ class CacheFlushCommand extends Command
      * @var string
      */
     protected $description = "Flush the translation cache.";
+    protected CacheRepository $cacheRepository;
+    protected mixed $cacheEnabled;
 
     /**
      *  Create the cache flushed command
