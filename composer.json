@@ -1,5 +1,5 @@
 {
-    "name": "fork-299132/laravel-translation",
+    "name": "ntraid/translation",
     "description": "A Translation package for Laravel 9 with database and cache support. Fork of the package Waavi Translation.",
     "keywords": [
         "laravel-translator",
